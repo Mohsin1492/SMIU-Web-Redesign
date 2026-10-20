@@ -3,7 +3,7 @@
 Independent **Web Engineering assignment** project: a responsive, multi-page static website for **Sindh Madressatul Islam University (SMIU), Karachi, Pakistan**. This is **not** the official university site and is not affiliated with or endorsed by SMIU.
 
 - **GitHub repository URL:** (https://github.com/Mohsin1492/SMIU-Web-Redesign)
-- **Live website URL:** _[add GitHub Pages or Netlify URL after deployment]_
+- **Live website URL:** (https://smiu-web-redesign.netlify.app/)
 
 ## Purpose
 
